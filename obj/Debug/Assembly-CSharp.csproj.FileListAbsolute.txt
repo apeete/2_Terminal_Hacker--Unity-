@@ -1,0 +1,2 @@
+/Users/austin.peete/Repos/Unity_0/2_Terminal_Hacker/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/austin.peete/Repos/Unity_0/2_Terminal_Hacker/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
